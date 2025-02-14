@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function createFlyingText() {
         let text = document.createElement("div");
         text.classList.add("flying-text");
-        text.innerText = "Võ Thị Hà ❤️";
+        text.innerText = "83 86 Mãi Đỉnh❤️";
 
         // Vị trí xuất hiện ngẫu nhiên
         let randomTop = Math.random() * window.innerHeight * 0.7;
